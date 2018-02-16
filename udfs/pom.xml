@@ -36,6 +36,7 @@
     <module>flink</module>
     <module>beam</module>
     <module>hive</module>
+    <module>nifi</module>
   </modules>
 
   <profiles>
